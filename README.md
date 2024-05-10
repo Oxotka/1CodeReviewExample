@@ -9,3 +9,5 @@
 1. Случайная обработка с ГитХаб - https://github.com/BlizD/HistoryStorage/blob/master/src/cf/DataProcessors/узПросмотрИсторииХранилища/Ext/ObjectModule.bsl
 
 Искал с помощью - OpenYellow 
+
+2. VSCode с плагином 1C (bsl) и SonarQube
