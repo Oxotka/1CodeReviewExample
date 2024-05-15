@@ -1,16 +1,16 @@
-# 1CodeReviewExample
-Пример проведения код-ревью для 1С-ных проектов
+# Примеры проведения код-ревью для 1С-ных проектов
 
-Вот здесь было видео о том как мы проводим код-ревью - https://www.youtube.com/watch?v=BMAgiz2uEHA
-А здесь хочу показать на практике как проводится код-ревью.
-Удобнее было бы сделать Видео, но попробуем в формате статьи.
+[DevCon - Практика проведения Code-review](https://www.youtube.com/watch?v=BMAgiz2uEHA)
+
+В репозитории планирую публиковать результаты Code-review со ссылкой на видео на [Boosty](https://boosty.to/1cnik)
 
 **Исходные данные:**
-1. Случайная обработка с ГитХаб - https://github.com/BlizD/HistoryStorage/blob/master/src/cf/DataProcessors/узПросмотрИсторииХранилища/Ext/ObjectModule.bsl
-Искал с помощью - OpenYellow 
-2. VSCode с плагином 1C (bsl) и SonarQube
-3. База со стандартами 1С - https://its.1c.ru/db/v8std
 
-**Начало:**
-1. Для начала давайте скормим наш модуль объекта SonarQube, чтобы отсеять часть замечаний.
-2. 
+1. [Visual Studio Code](https://code.visualstudio.com)
+2. [Система стандартов и методик разработки конфигураций 1С](https://its.1c.ru/db/v8std)
+3. [SonarQube 1C (BSL) Community Plugin](https://1c-syntax.github.io/sonar-bsl-plugin-community/)
+
+**Примеры:**
+
+1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](Пример1/README.md) - <https://github.com/BlizD/HistoryStorage>
+
