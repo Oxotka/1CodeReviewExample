@@ -1,10 +1,14 @@
 # Пример проведения код-ревью
 
-Решение - <https://github.com/BlizD/HistoryStorage>
-Автор - <https://github.com/BlizD>
+## Результат
 
-Часть 1 - https://boosty.to/1cnik/posts/a0cfc52a-2471-47c2-8e7d-33a3a1d565d4
-Часть 2 - https://boosty.to/1cnik/posts/f54d95b4-45cb-44aa-aba3-a997e0972124
+- Часть 1 - https://boosty.to/1cnik/posts/a0cfc52a-2471-47c2-8e7d-33a3a1d565d4
+- Часть 2 - https://boosty.to/1cnik/posts/f54d95b4-45cb-44aa-aba3-a997e0972124
+
+## Исходные данные
+
+- Решение - <https://github.com/BlizD/HistoryStorage>
+- Автор - <https://github.com/BlizD>
 
 ## Процесс работы
 
@@ -17,3 +21,27 @@
 7. Повторяем тоже самое с модулем объекта
 8. Просматриваем свои замечания на предмет понятности
 9. Готово! Теперь ждем когда исправят, чтобы сделать повторное ревью кода
+
+## Статья для Инфостарт
+
+**Тема:** Пример проведения Code-review
+
+**Краткий анонс:**
+В статье расскажу и покажу пример проводения Code-review на примере обработки с GitHub - Просмотр истории хранилища
+
+**Исходные данные:**
+
+1. [Хранилище 1С. Просмотр истории хранилища обработкой](https://github.com/BlizD/HistoryStorage)
+2. [Visual Studio Code](https://code.visualstudio.com)
+3. [SonarQube 1C (BSL) Community Plugin](https://1c-syntax.github.io/sonar-bsl-plugin-community/)
+4. [Система стандартов и методик разработки конфигураций 1С](https://its.1c.ru/db/v8std)
+
+**Результат:**
+
+1. К статье приложены файлы с результатами код-ревью. Замечания по коду отмечены // +++
+2. Пример замечаний:
+
+
+3. Процесс проведения Code-review записал на видео и выложил на [Boosty](https://boosty.to/1cnik)
+
+**Процесс работы и примеры замечаний:**
