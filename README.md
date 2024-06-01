@@ -14,3 +14,4 @@
 
 1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](Пример1/README.md) - <https://github.com/BlizD/HistoryStorage>
 
+2. Пример 2 - https://github.com/KonstantinHeinrich/Form-on-Form-Designer-Format/tree/master
