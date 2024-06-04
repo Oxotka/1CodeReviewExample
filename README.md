@@ -14,3 +14,9 @@
 
 1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](<Пример1 - Просмотр истории хранилища/README.md>)
 2. Пример 2 - https://github.com/KonstantinHeinrich/Form-on-Form-Designer-Format/tree/master
+
+
+
+<img src='https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg'> 
+
+Пример 1 - <https://infostart.ru/1c/2119477/>
