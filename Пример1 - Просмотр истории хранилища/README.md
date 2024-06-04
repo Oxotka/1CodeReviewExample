@@ -4,7 +4,7 @@
 
 - Часть 1 - https://boosty.to/1cnik/posts/a0cfc52a-2471-47c2-8e7d-33a3a1d565d4
 - Часть 2 - https://boosty.to/1cnik/posts/f54d95b4-45cb-44aa-aba3-a997e0972124
-- Статья - https://infostart.ru/1c/2119477/
+- Статья на <img src='https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg'> - https://infostart.ru/1c/2119477/
 
 ## Исходные данные
 
