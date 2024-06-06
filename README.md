@@ -20,3 +20,8 @@
 <img src='https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg'> 
 
 - [Пример проведения Code-review #1](<https://infostart.ru/1c/2119477/>)
+
+
+**Полезные ссылки:**
+
+Пример соглашения по стилю кода - [CodeStyle1c](https://github.com/kuzyara/CodeStyle1C)
