@@ -14,6 +14,7 @@
 
 1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](<Пример1 - Просмотр истории хранилища/README.md>)
 2. [Пример 2 - Конфигурация Форма на Форме](https://github.com/KonstantinHeinrich/Form-on-Form-Designer-Format/pull/1)
+3. Пример 3 - https://github.com/vpozdnyakov/1CYandexDiskExchange
 
 **Статьи:**
 
