@@ -2,7 +2,7 @@
 
 Видео [DevCon - Практика проведения Code-review](https://www.youtube.com/watch?v=BMAgiz2uEHA)
 
-В репозитории планирую публиковать результаты Code-review со ссылкой на видео на [Boosty](https://boosty.to/1cnik) и статьи на Инфостарт
+В репозитории планирую публиковать результаты Code-review со ссылкой на видео на [Boosty](https://boosty.to/1cnik) и статьи на Инфостарт.
 
 **Исходные данные:**
 
@@ -12,16 +12,15 @@
 
 **Примеры:**
 
-1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](<Пример1 - Просмотр истории хранилища/README.md>)
+1. [Пример 1 - Хранилище 1С. Просмотр истории хранилища обработкой](<Пример 1 - Просмотр истории хранилища/README.md>)
 2. [Пример 2 - Конфигурация Форма на Форме](https://github.com/KonstantinHeinrich/Form-on-Form-Designer-Format/pull/1)
-3. Пример 3 - https://github.com/vpozdnyakov/1CYandexDiskExchange
+3. [Пример 3 - Обмен с Яндекс Диском](<Пример 3 - Обмен с Яндекс диском/README.md>)
 
 **Статьи:**
 
 <img src='https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg'> 
 
 - [Пример проведения Code-review #1](<https://infostart.ru/1c/2119477/>)
-
 
 **Полезные ссылки:**
 
