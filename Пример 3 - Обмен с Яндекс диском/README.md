@@ -12,4 +12,7 @@
 1. В репозитории есть обработка **ОбменЯндексДиск**
 2. Начинаем с [Формы](https://github.com/vpozdnyakov/1CYandexDiskExchange/blob/master/YandexDiskExchangeXML/DataProcessors/ОбменЯндексДиск/Forms/Форма/Ext/Form/Module.bsl)
 3. Копируем файл формы в [Отдельный файл](src/form_raw.bsl)
-4. Начинаем ревью кода в [Файле](form_review.bsl)
+4. Скормим файл нейросети, чтобы она написала какие-то замечания.
+Результат в [файле](form_review_by_khoj.md)
+5. Начинаем ревью кода в [Файле](form_review.bsl)
+
