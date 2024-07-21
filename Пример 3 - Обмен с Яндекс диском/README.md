@@ -16,4 +16,5 @@
 Результат в [файле](src/form_review_by_khoj.md)
 5. Начинаем ревью кода в [Файле](src/form_review.bsl)
 6. Переходим к модулю объекта [Файл](src/ObjectModule_raw.bsl)
-7. Скормим файл нейросети. Результат в файле - 
+7. Скормим файл нейросети. Результат в [файле](src/object_module_by_khoj.md)
+8. Начинаем ревью кода в [Файле](src/ObjectModule_review.bsl)
