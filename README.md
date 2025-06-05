@@ -2,6 +2,12 @@
 
 Видео [DevCon - Практика проведения Code-review](https://www.youtube.com/watch?v=BMAgiz2uEHA)
 
+Видео [Инфостарт - Код-ревью с помощью ИИ](https://vkvideo.ru/video-42867005_456240512)
+
+[Тренажер: Код-ревью 1С](https://codereview1c.ru)
+
+
+
 В репозитории планирую публиковать результаты Code-review со ссылкой на видео на [Boosty](https://boosty.to/1cnik) и статьи на Инфостарт.
 
 **Исходные данные:**
